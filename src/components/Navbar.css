@@ -1,0 +1,19 @@
+/* Navbar.css */
+nav {
+  background-color: #38c9e6;
+  padding: 10px;
+  color: white;
+  text-align: left;
+}
+
+span {
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+span:hover {
+  text-decoration: underline;
+}
